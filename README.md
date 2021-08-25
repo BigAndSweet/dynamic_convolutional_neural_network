@@ -1,4 +1,4 @@
-# Dynamic Convolutional Neural Network (No correct checked by cxx)
+# Dynamic Convolutional Neural Network (Not correct checked by cxx)
 Pytorch implementation of Dynamic Convolutional Neural Network for Text Classification.
 
 ## Note
